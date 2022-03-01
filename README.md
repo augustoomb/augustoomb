@@ -1,7 +1,7 @@
 # Olá, eu sou o Augusto Barbosa! :D
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/augustoomb)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/augusto-barbosa-88b65720a/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/augustoomb)](https://github.com/augustoomb)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/augusto-barbosa-88b65720a/)](https://www.linkedin.com/in/augusto-barbosa-88b65720a)
 
 ### Sobre mim
 Estudante de desenvolvimento web na Trybe(https://www.betrybe.com/).
