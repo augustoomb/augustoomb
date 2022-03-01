@@ -6,7 +6,7 @@
 ### Sobre mim
 Estudante de desenvolvimento web na Trybe(https://www.betrybe.com/).
 
-- [Graduação](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) 👨🏼‍🏫 - Graduado em Sistemas de Informação pela Puc Minas
+- [Graduação] 👨🏼‍🏫 - Graduado em Sistemas de Informação pela Puc Minas
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=augustoomb)
 
