@@ -4,9 +4,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/augusto-barbosa-88b65720a/)](https://www.linkedin.com/in/augusto-barbosa-88b65720a)
 
 ### Sobre mim
-Estudante de desenvolvimento web na Trybe(https://www.betrybe.com/).
+Estudante de .
 
 - [Graduação] 👨🏼‍🏫 - Graduado em Sistemas de Informação pela Puc Minas
+- [Estudando] 👨🏼‍🏫 - Estudante de Desenvolvimento Web Full Stack na Trybe(https://www.betrybe.com/).
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=augustoomb)
 
