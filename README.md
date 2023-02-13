@@ -6,7 +6,7 @@
 ### Sobre mim
 
 - [Graduação] 👨🏼‍🏫 - Graduado em Sistemas de Informação pela Puc Minas
-- [Estudando] 👨🏼‍🏫 - Estudante de Desenvolvimento Web Full Stack na Trybe(https://www.betrybe.com/).
+- [Curso Concluído] 👨🏼‍🏫 - Desenvolvimento Web Full Stack na Trybe(https://www.betrybe.com/).
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=augustoomb)
 
