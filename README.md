@@ -8,8 +8,8 @@ e-mail: augustobarbosa1988@gmail.com
 
 ### Sobre mim
 
-- [Graduação] 👨🏼‍🏫 - Graduado em Sistemas de Informação pela Puc Minas
-- [Curso Concluído] 👨🏼‍🏫 - Desenvolvimento Web Full Stack na Trybe(https://www.betrybe.com/).
+- [Curso Concluído (2023)] 👨🏼‍🏫 - Desenvolvimento Web Full Stack na Trybe(https://www.betrybe.com/)
+- [Graduação Concluída (2018)] 👨🏼‍🏫 - Sistemas de Informação na Puc Minas
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=augustoomb)
 
