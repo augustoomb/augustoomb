@@ -11,7 +11,7 @@ e-mail: augustobarbosa1988@gmail.com
 - [Graduação Concluída] 👨🏼‍🏫 - Sistemas de Informação na Puc Minas
 
 #### Cursos e certificações
-- [Concluído] 👨🏼‍🏫 - Desenvolvimento Web Full Stack na Trybe(https://www.betrybe.com/)
+- [Concluído] 👨🏼‍🏫 - Desenvolvimento Web Full Stack na Trybe(https://www.credential.net/b9e3deea-67f7-4e9d-8c67-fc81760537a6)
 - [Concluído] 👨🏼‍🏫 - Certificado Profissional de Análise de Dados do Google(https://www.coursera.org/account/accomplishments/specialization/certificate/943AA35CNM7F)
 - [Concluído] 👨🏼‍🏫 - Certificado Profissional de Design de UX do Google(https://www.coursera.org/account/accomplishments/specialization/certificate/YSW7X7TELNAY)
 
