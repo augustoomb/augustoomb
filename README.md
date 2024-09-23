@@ -8,8 +8,12 @@ e-mail: augustobarbosa1988@gmail.com
 
 ### Sobre mim
 
-- [Curso Concluído (2023)] 👨🏼‍🏫 - Desenvolvimento Web Full Stack na Trybe(https://www.betrybe.com/)
-- [Graduação Concluída (2018)] 👨🏼‍🏫 - Sistemas de Informação na Puc Minas
+- [Graduação Concluída] 👨🏼‍🏫 - Sistemas de Informação na Puc Minas
+
+#### Cursos e certificações
+- [Concluído] 👨🏼‍🏫 - Desenvolvimento Web Full Stack na Trybe(https://www.betrybe.com/)
+- [Concluído] 👨🏼‍🏫 - Certificado Profissional de Análise de Dados do Google(https://www.coursera.org/account/accomplishments/specialization/certificate/943AA35CNM7F)
+- [Concluído] 👨🏼‍🏫 - Certificado Profissional de Design de UX do Google(https://www.coursera.org/account/accomplishments/specialization/certificate/YSW7X7TELNAY)
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=augustoomb)
 
