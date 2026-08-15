@@ -1,10 +1,5 @@
 # Olá, eu sou o Augusto Barbosa! 👋
 
-<!-- Cabeçalho Animado (Sem textos órfãos ou quebrados) -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/demo/?lines=Desenvolvedor+Back-end+Java;Especialista+em+Spring+Boot+%26+APIs+REST;Foco+em+Clean+Architecture+%26+Microservi%C3%A7os&font=Fira+Code&center=true&width=500&height=50&color=36BCF7&vCenter=true&size=22" alt="Animação de Apresentação" />
-</div>
-
 ### 👨‍💻 Sobre mim
 
 Sou **Desenvolvedor Back-end** graduado em **Sistemas de Informação pela PUC Minas**, focado no ecossistema **Java & Spring Boot**.
@@ -28,37 +23,28 @@ Tenho experiência prática no desenvolvimento de APIs RESTful, microsserviços,
 
 ### 🛠️ Tecnologias e Ferramentas
 
-*Passe o mouse sobre os ícones para ver o nome da tecnologia.*
+#### Linguagem & Frameworks
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
+[![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
 
-#### Back-end, Bancos & Ferramentas (Painel com Alto Contraste)
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,kafka,postgres,mysql,mongodb,maven,gradle,junit,docker,git,github,postman,idea,linux&theme=light" alt="Java, Spring, Kafka, PostgreSQL, MySQL, MongoDB, Maven, Gradle, JUnit, Docker, Git, GitHub, Postman, IntelliJ IDEA, Linux" title="Suas Tecnologias Back-end" />
-  </a>
-</div>
+#### Bancos de Dados
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
-<br>
+#### Build, Ferramentas & Testes
+[![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
+[![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org/)
+[![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
 
-#### Lista Detalhada com Nomes ao Passar o Mouse (Tooltip)
-<div style="display: inline_block">
-  <img align="center" height="36" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java">
-  <img align="center" height="36" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot">
-  <img align="center" height="36" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Apache Kafka" title="Apache Kafka">
-  <img align="center" height="36" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL">
-  <img align="center" height="36" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL">
-  <img align="center" height="36" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB">
-  <img align="center" height="36" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven" title="Maven">
-  <img align="center" height="36" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" alt="Gradle" title="Gradle">
-  <img align="center" height="36" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="JUnit 5" title="JUnit 5">
-  <img align="center" height="36" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker">
-  <img align="center" height="36" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git">
-  <img align="center" height="36" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub">
-  <img align="center" height="36" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" title="Postman">
-  <img align="center" height="36" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA">
-  <img align="center" height="36" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux">
-</div>
-
-<br>
+#### DevOps & Ambiente
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
 
 #### Conceitos, Arquitetura & Práticas
 ![API REST](https://img.shields.io/badge/API-RESTful-0055e6?style=flat-square)
